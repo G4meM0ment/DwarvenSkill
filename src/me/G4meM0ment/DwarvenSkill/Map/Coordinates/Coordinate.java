@@ -5,7 +5,6 @@ import me.G4meM0ment.DwarvenSkill.Map.CoordsHandler;
 import me.G4meM0ment.DwarvenSkill.Map.Map;
 import me.G4meM0ment.DwarvenSkill.Map.Landscape.Landscape;
 import me.G4meM0ment.DwarvenSkill.Map.Landscape.Shape;
-import me.G4meM0ment.DwarvenSkill.Map.Landscape.Types;
 
 public class Coordinate {
 	
